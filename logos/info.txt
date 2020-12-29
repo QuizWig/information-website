@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Lovelo Black
+font link: https://www.fontfabric.com/lovelo-font/
+font author: Renzler Design
+font author site: http://www.braenda.com/
+
+
+icon designer: Rémy Médard
+icon designer link: /catalarem
+        
+{"bg-gradient-0":"#EA1F59","bg-gradient-1":"#FA9169","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      

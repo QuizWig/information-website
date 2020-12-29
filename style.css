@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'loveloblack';
+    src: url('./fonts/lovelo_black-webfont.woff2') format('woff2'),
+         url('./fonts/lovelo_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    height: 100vh;
+    min-height: 30rem;
+    background: linear-gradient(135deg, #EA1F59, #FA9169);
+    font-family: sans-serif;
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+}
+
+a {
+    color: #ffffff;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+h1, h2, h3 {
+    font-family: 'loveloblack', sans-serif;
+    margin: 0;
+}
+
+header > img {
+    padding: 1.5rem;
+    display: block;
+    width: 100%;
+    max-width: 15rem;
+}
+
+main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
